@@ -2,12 +2,6 @@
 
 ### 💻 Desenvolvedora | 🎓 Bacharel em Sistemas de Informação
 
-Sou Bacharel em Sistemas de Informação e desenvolvedora apaixonada por tecnologia e pelo processo de transformar ideias em software.
-
-Tenho bastante experiência com JavaScript/TypeScript, PHP e MySQL, e atualmente estou aprofundando meus conhecimentos em React e Node.js.
-
-Também estou explorando uma nova área: desenvolvimento de jogos com Godot. 🎮
-
 ---
 
 ## 🛠️ Tecnologias
@@ -43,6 +37,8 @@ Também estou explorando uma nova área: desenvolvimento de jogos com Godot. �
 ---
 
 ## 🧠 Além do código
+
+Sou Bacharel em Sistemas de Informação e desenvolvedora apaixonada por tecnologia e pelo processo de transformar ideias em software.
 
 Gosto de tecnologia, jogos, atividades criativas e de aprender coisas novas.
 Atualmente estou explorando desenvolvimento de jogos como uma forma de sair um pouco do desenvolvimento web e experimentar uma área diferente.
