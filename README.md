@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou Ana Beatriz (Molzy)!
 
-### 💻 Desenvolvedora | 🎓 Bacharela em Sistemas de Informação
+### 💻 Desenvolvedora | 🎓 Bacharel em Sistemas de Informação
 
-Sou Bacharela em Sistemas de Informação e desenvolvedora apaixonada por tecnologia e pelo processo de transformar ideias em software.
+Sou Bacharel em Sistemas de Informação e desenvolvedora apaixonada por tecnologia e pelo processo de transformar ideias em software.
 
 Tenho bastante experiência com JavaScript/TypeScript, PHP e MySQL, e atualmente estou aprofundando meus conhecimentos em React e Node.js.
 
